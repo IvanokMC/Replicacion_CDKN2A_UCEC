@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19026766-blue)](https://doi.org/10.5281/zenodo.19026766)
 [![Paper](https://img.shields.io/badge/Paper%20original-Scientific%20Reports%202025-red)](https://doi.org/10.1038/s41598-025-85364-w)
 [![TCGA](https://img.shields.io/badge/Data-TCGA%20%7C%20CPTAC%20%7C%20GTEx-blueviolet)](https://xenabrowser.net/)
 
@@ -239,7 +240,8 @@ Si utilizas este código o los análisis de este repositorio, por favor cita:
   year         = {2025},
   institution  = {Universidad Nacional de San Antonio Abad del Cusco},
   note         = {Replicación de: Ma et al., Scientific Reports (2025) 15:895},
-  url          = {https://github.com/TU_USUARIO/UCEC-BIOINFOMATICA}
+  doi          = {10.5281/zenodo.19026766},
+  url          = {https://doi.org/10.5281/zenodo.19026766}
 }
 ```
 
@@ -269,6 +271,7 @@ Este proyecto está bajo la licencia **MIT**. Los datos provienen de fuentes pú
 
 ## 🔗 Referencias
 
+- [📄 **Este trabajo en Zenodo — DOI: 10.5281/zenodo.19026766**](https://doi.org/10.5281/zenodo.19026766)
 - [Paper original — Ma et al., Scientific Reports 2025](https://doi.org/10.1038/s41598-025-85364-w)
 - [UCSC Xena Browser](https://xenabrowser.net/)
 - [TCGA — The Cancer Genome Atlas](https://portal.gdc.cancer.gov/)
@@ -284,4 +287,3 @@ Este proyecto está bajo la licencia **MIT**. Los datos provienen de fuentes pú
   Escuela Profesional de Ingeniería Informática y de Sistemas<br>
   Área de Bioinformática · 2025
 </p>
-# Replicacion_CDKN2A_UCEC
